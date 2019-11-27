@@ -1,9 +1,9 @@
-# 📦 Component Name - changelog
+# 📦 Draggable Image Gallery - changelog
 
-Use this repository to report bugs and get notified about changes affecting the Component Name component.
+Use this repository to report bugs and get notified about changes affecting the Draggable Image Gallery component.
 
-- [Live Demo](https://codyhouse.co/ds/components/app/component-name)
-- [Info Page](https://codyhouse.co/ds/components/info/component-name)
+- [Live Demo](https://codyhouse.co/ds/components/app/draggable-image-gallery)
+- [Info Page](https://codyhouse.co/ds/components/info/draggable-image-gallery)
 
 Before reporting a bug, please make sure to check the 'info page' of the component. 
 
